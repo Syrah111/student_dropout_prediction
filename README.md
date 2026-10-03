@@ -3,7 +3,7 @@
 A Logistic Regression model that predicts whether a student is at risk of dropping out,
 with a Streamlit app that returns a dropout probability and a risk level (Low / Medium / High).
 
-**Live app:** <LIVE_APP_URL>
+Live app: https://student-dropout-prediction-2026.streamlit.app/
 
 ## Problem
 Identify students who may need extra support early, using academic, demographic,
